@@ -5,6 +5,9 @@
  
 ##MES PAGES WEB
 
+###Jeu des paires (memory)
+<https://extreeeme.github.io/JeuDesPairs/>
+
 ###Algorithme de tri sur des personnes dans un classement
 <https://extreeeme.github.io/tri_Vinscene/>  
 
@@ -16,3 +19,4 @@
 
 ###Exercice en JS pour afficher un nombre de cases
 <https://extreeeme.github.io/exerciceCasesJS/>  
+
